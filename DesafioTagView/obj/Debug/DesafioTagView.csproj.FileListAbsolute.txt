@@ -1,0 +1,8 @@
+C:\Programas para estagio\DesafioTagView\DesafioTagView\bin\Debug\DesafioTagView.exe.config
+C:\Programas para estagio\DesafioTagView\DesafioTagView\bin\Debug\DesafioTagView.exe
+C:\Programas para estagio\DesafioTagView\DesafioTagView\bin\Debug\DesafioTagView.pdb
+C:\Programas para estagio\DesafioTagView\DesafioTagView\obj\Debug\DesafioTagView.csprojResolveAssemblyReference.cache
+C:\Programas para estagio\DesafioTagView\DesafioTagView\obj\Debug\DesafioTagView.exe
+C:\Programas para estagio\DesafioTagView\DesafioTagView\obj\Debug\DesafioTagView.pdb
+C:\Programas para estagio\DesafioTagView\DesafioTagView\bin\Debug\Newtonsoft.Json.dll
+C:\Programas para estagio\DesafioTagView\DesafioTagView\bin\Debug\Newtonsoft.Json.xml
